@@ -1,1 +1,1 @@
-Đây là bản dịch tiếng Việt từ chương 15 - Tips and Hints sách FreeRTOS for ESP32-Arduino của tác giả Warren Gray.
+Đây là bản dịch tiếng Việt từ chương 15 - Tips and Hints sách FreeRTOS for ESP32-Arduino của tác giả Warren Gray. Trong quá trình dịch có thể có những sai sót không mong muốn, rất mong được lượng thứ.
